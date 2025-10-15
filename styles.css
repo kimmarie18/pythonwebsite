@@ -1,0 +1,54 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  max-width: 1600px;
+  box-sizing: border-box;
+}
+html,
+body {
+  background-color: #7193af;
+}
+header {
+  padding: 20px;
+  background-color: #1f425f;
+}
+header img {
+  width: 300px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+.headerright {
+  display: inline-block;
+  margin-left: 900px;
+  margin-bottom: 30px;
+  vertical-align: middle;
+}
+
+nav {
+  width: 1150px;
+  height: 50px;
+  margin: 5px;
+  padding-left: 50px;
+  background-color: #3571a4;
+}
+nav .about {
+  margin-left: 100px;
+}
+nav span {
+  vertical-align: middle;
+  color: white;
+  font-size: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 10px;
+  background-color: #568ab8;
+}
+.python {
+  width: 1150px;
+  padding-left: 150px;
+  background-color: rgb(128, 109, 74);
+}
+.python .pybig {
+  color: rgb(212, 165, 36);
+  font-size: 30px;
+}
